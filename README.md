@@ -3,10 +3,11 @@
 I’m currently working on Web Designer and am studying Game Design!
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/MarianeAurora">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarianeAurora&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeAurora&layout=compact&langs_count=7&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marianeaurora&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianeaurora&layout=compact&langs_count=7&theme=radical"/>
+  
 </div>
   
 <h3>Dev Skills</h3>
