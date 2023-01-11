@@ -2,8 +2,8 @@
 I’m currently working on Web Designer and am studying Game Design!
 <div align="center">
   <a href="https://github.com/MarianeAurora">
-    <img height="150em" src="https://github-readme-stats.vercel.app/apiusername=marianeaurora&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianeaurora&layout=compact&langs_count=7&theme=Gradient"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/apiusername=marianeaurora&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianeaurora&layout=compact&langs_count=7&theme=gruvbox"/> 
 </div>
   
 <h3>Dev Skills</h3>
