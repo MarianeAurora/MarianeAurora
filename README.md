@@ -35,4 +35,5 @@ I’m currently working on Web Designer and am studying Game Design!
  
   ![Snake animation](https://github.com/marianeaurora/marianeaurora/blob/output/github-contribution-grid-snake.svg)
  
+  
 </div>
