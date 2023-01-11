@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mariane Aurora
-  • I work as a Web Designer;<br>
-  • I am studying Javascript;<br>
- • I venture into Game Development.<br>
+  • I work as a Web Designer;✎<br>
+  • I am studying Javascript;👩‍💻<br>
+ • I venture into Game Development.🕹️<br>
 
 <div align="center">
   <a href="https://github.com/marianeaurora">
